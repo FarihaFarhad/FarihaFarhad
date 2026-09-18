@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Hi%2C+It's+Fariha!+%F0%9F%91%8B" alt="Hi, It's Fariha!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF4D8D&center=true&vCenter=true&width=800&lines=Hi%2C+It's+Fariha!+%F0%9F%91%8B" alt="CIAO, It's Fariha" />
 </p>
+
 
 
 # 💫 About Me:
