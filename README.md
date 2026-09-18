@@ -1,11 +1,9 @@
-
-
 <h1 align="center">
   FARIHA FARHAD 
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF4D8D&center=true&vCenter=true&width=800&lines=CIAO%2C+It's+Fariha!+%F0%9F%91%8B;CSE+Undergraduate+%F0%9F%92%BB;Aspiring+AI%2FML+Researcher+%F0%9F%A4%96;Think+%7C+Learn+%7C+Create+%7C+Repeat+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF4D8D&center=true&vCenter=true&width=800&lines=CIAO%2C+It's+Fariha!+%F0%9F%91%8B;CSE+Undergraduate @AIUB+%F0%9F%92%BB;Aspiring+AI%2FML+Researcher+%F0%9F%A4%96;%7C+Think+%7C+Learn+%7C+Create+%7C+Repeat+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 
