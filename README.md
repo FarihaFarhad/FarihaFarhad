@@ -1,10 +1,7 @@
-<h1 align="center">
-  Hi, It's Fariha! 👋
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+It's+Fariha!+%F0%9F%91%8B;CSE+Undergraduate+%F0%9F%92%BB;Aspiring+AI%2FML+Researcher+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Hi%2C+It's+Fariha!+%F0%9F%91%8B" alt="Hi, It's Fariha!" />
 </p>
+
 
 # 💫 About Me:
 🎓 Computer Science & Engineering Undergraduate<br>🤖 Interested in Artificial Intelligence, Machine Learning & NLP<br>🔬 Passionate about Research & Problem Solving<br>📚 Currently exploring the intersection of AI and real-world applications
