@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  FARIHA FARHAD 👋
+  FARIHA FARHAD 
 </h1>
 
 <p align="center">
