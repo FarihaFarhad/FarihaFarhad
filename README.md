@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#8B5CF6;">
-  FARIHA FARHAD
+<h1 align="center">
+  <font color="#8B5CF6">FARIHA FARHAD</font>
 </h1>
 
 <p align="center">
