@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="color:#8B5CF6;">
   FARIHA FARHAD
 </h1>
 
