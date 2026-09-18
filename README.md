@@ -1,4 +1,4 @@
-#Hi, It's Fariha Farhad
+##Hi, It's Fariha Farhad
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/farihafarhad24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fariha Farhad) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Fariha Farhad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farihaffeha@gmail.com) 
