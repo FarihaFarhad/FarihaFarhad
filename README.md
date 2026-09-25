@@ -11,7 +11,7 @@
 
 
 # 💫 About Me:
-🎓 Computer Science & Engineering Undergraduate<br>🤖 Interested in Artificial Intelligence, Machine Learning & NLP<br>🔬 Passionate about Research & Problem Solving<br>📚 Currently exploring the intersection of AI and real-world applications
+🎓 Computer Science & Engineering Undergraduate Student @AIUB<br>🤖 Interested in Artificial Intelligence, Machine Learning & NLP<br>🔬 Passionate about Research & Problem Solving<br>📚 Currently exploring the intersection of AI and real-world applications
 
 
 ## 🌐 Socials:
